@@ -1,20 +1,18 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FdVrU54p)
 # [Project Title — e.g., Hospital Admission Records Analysis]
 
-> **Lab 1 starter repo** — Replace the heading above with your project title. Team member names are not part of the lab — they go in Section 2 of your completed README in the integration task.
+> **Lab 1 starter repo** — Hospital Admission Records Analysis. Team member names are not part of the lab — they go in Section 2 of your completed README in the integration task.
 
 ---
 
 ## Project Overview
 
-TODO: Write 2–3 sentences describing what this project does and who it is for.
-
----
+This project creates a shared, reproducible environment to analyze hospital admission records for a regional health authority.
 
 ## Setup Instructions
 
 TODO: Complete these setup steps after creating your `requirements.txt`:
-
+To set up the project environment and run the analysis, follow these steps:
 ```bash
 python -m venv .venv
 
