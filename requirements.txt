@@ -2,3 +2,5 @@
 # Example:
 #   pandas
 #   matplotlib
+pandas
+matplotlib
