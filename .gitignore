@@ -1,13 +1,25 @@
-# Python
+# Python (Required: __pycache__/)
 __pycache__/
 *.pyc
 *.pyo
 
-# Jupyter
+# Virtual Environment (Required: .venv/)
+.venv/
+
+# Jupyter (Required: .ipynb_checkpoints/)
 .ipynb_checkpoints/
 
-# Add more patterns here:
-# - Virtual environment: .venv/
-# - Data files: *.csv, *.parquet, *.xlsx, data/raw/
-# - Secrets: .env
-# - OS artifacts: .DS_Store
+# Secrets and credentials (Required: .env)
+.env
+*.key
+*.pem
+
+# Data files (Required: *.csv, *.parquet, *.xlsx, data/raw/)
+*.csv
+*.parquet
+*.xlsx
+data/raw/
+
+# OS artifacts (Required: .DS_Store)
+.DS_Store
+Thumbs.db
